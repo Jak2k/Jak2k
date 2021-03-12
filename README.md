@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jak2k
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning programming.
