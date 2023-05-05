@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[My stack](https://github.com/jak2k/use)
+[My stack](https://github.com/jak2k/use) ▪️ [My blog](https://jak2ks-blog.vercel.app)
 
-- 🔭 I’m currently working on two projects which are still private
-- 🌱 I’m currently learning typescript, react and astro
+- 🔭 I’m working on a few projects which are still private
+- 🌱 I’m currently learning typescript, react, prisma and astro
 - 👯 I’m looking to collaborate on your or my open source projects
 - 🤔 I’m looking for help with [Project Competentia](https://github.com/jak2k/project-competentia)
 - 💬 Ask me about anything
