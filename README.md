@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[My stack](https://github.com/jak2k/use)
+
 - 🔭 I’m currently working on two projects which are still private
 - 🌱 I’m currently learning typescript, react and astro
 - 👯 I’m looking to collaborate on your or my open source projects
