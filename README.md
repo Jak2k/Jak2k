@@ -9,3 +9,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Just [open an issue](https://github.com/Jak2k/Jak2k/issues/new?assignees=&labels=contact&template=contact-me.md&title=Contact+Request) for contacting me (or send a Contact Request on Discord, where I'm called Jak2k#9434)
 - 😄 Pronouns: he/him
+
+## [My blog](https://jak2k.schwanenberg.name)
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
