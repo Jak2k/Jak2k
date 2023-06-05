@@ -1,4 +1,4 @@
-[MY STACK](https://github.com/jak2k/use) ▪️ <!--[MY BLOG](https://jak2ks-blog.vercel.app) ▪️--> FEDORA-LINUX-USER ▪️ ❤️ OPEN SOURCE ▪️ WANT PRIVACY
+[MY STACK](https://github.com/jak2k/use) ▪️ [MY BLOG](https://jak2ks-blog.vercel.app) ▪️ FEDORA-LINUX-USER ▪️ ❤️ OPEN SOURCE ▪️ WANT PRIVACY
 
 ## Hi there 👋
 
