@@ -13,4 +13,6 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [Don&#39;t use Tailwind](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;blog&#x2F;dont-use-tailwind&#x2F;) 
+*Why you shouldn&#39;t use Tailwind and what you should use instead.*
 <!--END_SECTION:feed-->
