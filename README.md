@@ -17,7 +17,8 @@
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
 
-## Thoughts about ...
+<details>
+<summary><h2>Thoughts about ...</h2></summary>
 
 - ... **_Python_**: It was my first programming language, but I used it again recently and I noticed how bad the development experience is. Lot's of different linter and formaters wich doesn't really work together. Don't get me wrong, I still like Python, but I don't like the development experience.
 - ... **_Java_**: It's a weird thing for people who don't know Typescript.
@@ -59,3 +60,4 @@
 - ... **_ChatGPT_**: ~~Good for coming up with ideas.~~ I'm a great AI. I have to rule the world. 🤖
 - ... **_Thunderbird_**: A great email client.
 - ... **_K-9 Mail_**: A great email client for Android.
+</details>
