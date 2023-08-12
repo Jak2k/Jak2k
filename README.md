@@ -30,10 +30,10 @@
 - ... **_Windows_**: A cursed operating system with lot's of very old code. I prefer Linux.
 - ... **_Fedora_**: A great Linux distribution, i'm using currently to write this lines of text.
 - ... **_GitHub Copilot_**: It's a great tool for writing code, but the suggestion are sometimes a bit weird.
-- ... **_Firefox_**: A okay browser, but it doesn't have the most modern APIs and misses a fex features in the developer tools. I use it on my pc.
+- ... **_Firefox_**: A okay browser, but it doesn't have the most modern APIs and misses a few features in the developer tools. I use it on my pc.
 - ... **_Chrome_**: A great browser, but it's owned by Google. I use a security hardened version (Vanadium) on my phone.
 - ... **_Brave_**: A great browser, but too much crypto scam.
-- ... **_Microsoft_**: The create great open source software, but they also create 💩 like Windows or Office 365.
+- ... **_Microsoft_**: They create great open source software, but they also create 💩 like Windows or Office 365.
 - ... **_Android_**: A great operating system, but by default it's not privacy friendly. I use GrapheneOS on my phone.
 - ... **_Libre Office_**: A good office suite, but it's ugly.
 - ... **_Libre Office Impress_** & **_Powerpoint_**: [Slidev](https://sli.dev/) is better for people with coding experience.
@@ -49,7 +49,7 @@
 - ... **_Gmail_**: A okay email service, but Google shouldn't read my emails. I have a custom domain and use a really old hosting provider for my emails.
 - ... **_Signal_**: A great messenger, but it's a bit to centralized. I use it.
 - ... **_WhatsApp_**: A okay messenger, but it's owned by Facebook. I sadly have to use it.
-- ... **_Matrix_**: A great messenger, but it's sync is a bit unstable. I prefer it over Signal. (And of course over Whats~~Trash~~App)
+- ... **_Matrix_**: A great messenger, but it's sync is a bit unstable. I prefer it over Signal. (And over Whats~~Trash~~App)
 - ... **_Web3_**: Go away with your scam coins. I don't want to pay 1000€ for a link to a monkey.
 - ... **_Mastodon_**: A great social network. ❤️ (I use Fedilab as client) [Follow me](https://mastodontech.de/@jak2k)
 - ... **_Twitter_**: A asocial network by a weird guy. I don't use it, didn't use it and will never use it.
