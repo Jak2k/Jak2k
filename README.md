@@ -16,9 +16,11 @@
 
 <!--START_SECTION:feed-->
 - [Why you should use UnoCSS instead of Tailwind](https:&#x2F;&#x2F;jak2k.schwaneberg.name&#x2F;post&#x2F;unocss-tailwind&#x2F;) 
-**
+*In this post, I will explain why you should use [UnoCSS](unocss.dev&#x2F;) instead of [Tailwind](https:&#x2F;&#x2F;tailwindcss.com&#x2F;).
+Read more...*
 - [Hello World](https:&#x2F;&#x2F;jak2k.schwaneberg.name&#x2F;post&#x2F;hello-world&#x2F;) 
-**
+*Hello World! This post is created for debugging purposes.
+Read more...*
 <!--END_SECTION:feed-->
 
 <details>
