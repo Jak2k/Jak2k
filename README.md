@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m working on [Project Nimbus](https://github.com/Jak2k/Project-Nimbus).
+- 🔭 I’m working on [Tuxnest](https://tuxnest.vercel.app). I'll open source it soon.
 - 🔧 I'm using **typescript, vue, nuxt, vitesse**, react, next and astro. [More here](https://jak2k.schwanenberg.name)
 - 🌱 I want to learn 🦀Rust.
 - 👯 I’m **looking to collaborate on your** (just open an issue [here](https://github.com/jak2k/jak2k/issues)) **or on my open source projects**.
