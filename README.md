@@ -15,6 +15,9 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [I switched from React to Vue](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;switch-react-vue&#x2F;) 
+*import StateDemo from &quot;..&#x2F;..&#x2F;components&#x2F;demo&#x2F;vue&#x2F;StateDemo.vue&quot;;
+Read more...*
 - [Why you should use UnoCSS instead of Tailwind](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;unocss-tailwind&#x2F;) 
 *In this post, I will explain why you should use [UnoCSS](https:&#x2F;&#x2F;unocss.dev&#x2F;) instead of [Tailwind](https:&#x2F;&#x2F;tailwindcss.com&#x2F;).
 Read more...*
