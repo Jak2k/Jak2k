@@ -15,6 +15,9 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [Nuxt vs. Astro - Interactive decision helper](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;nuxt-astro&#x2F;) 
+***Astro** and **nuxt** are both great tools for building websites. But which one should you use? This is an **interactive post** to help you decide. I will explain the differences between the two and then ask you a few questions to help you decide which one is right for you. **At the end**, I will give you a **recommendation based on your answers**.
+Read more...*
 - [I switched from React to Vue](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;switch-react-vue&#x2F;) 
 *import StateDemo from &quot;..&#x2F;..&#x2F;components&#x2F;demo&#x2F;vue&#x2F;StateDemo.vue&quot;;
 Read more...*
