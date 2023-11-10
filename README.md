@@ -29,7 +29,7 @@ Read more...*
 Read more...*
 <!--END_SECTION:feed-->
 
-[![An image of @jak2k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jak2k)](https://holopin.io/@jak2k)
+<!--[![An image of @jak2k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jak2k)](https://holopin.io/@jak2k)-->
 
 <details>
 <summary><h2>Thoughts about ...</h2></summary>
