@@ -6,9 +6,9 @@
 - 🔧 I'm using **typescript, vue, nuxt, vitesse**, react, next and astro. [More here](https://jak2k.schwanenberg.name)
 - 🌱 I want to learn 🦀Rust.
 - 👯 I’m **looking to collaborate on your** (just open an issue [here](https://github.com/jak2k/jak2k/issues)) **or on my open source projects**.
-- 🤔 I’m looking for help with [Codebox](https://github.com/jak2k/codebox)
-- 💬 Ask me about anything
-- 📫 How to reach me: Just [open an issue](https://github.com/Jak2k/Jak2k/issues/new?assignees=&labels=contact&template=contact-me.md&title=Contact+Request) for contacting me (or send a Contact Request on Discord, where I'm called @Jak2k)
+- 🤔 I’m looking for help with [Tuxnest](https://github.com/jak2k/tuxnest).
+- 💬 Ask me about anything!
+- 📫 How to reach me: Just [open an issue](https://github.com/Jak2k/Jak2k/issues/new?assignees=&labels=contact&template=contact-me.md&title=Contact+Request) for contacting me (or send a Contact Request on Discord, where I'm called @Jak2k).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My ears have bluetooth. I can listen to music with them and accept calls with them. I can also use them as a microphone.
 
