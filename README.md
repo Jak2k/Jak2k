@@ -22,7 +22,7 @@ Read more...*
 ***Astro** and **nuxt** are both great tools for building websites. But which one should you use? This is an **interactive post** to help you decide. I will explain the differences between the two and then ask you a few questions to help you decide which one is right for you. **At the end**, I will give you a **recommendation based on your answers**.
 Read more...*
 - [I switched from React to Vue](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;switch-react-vue&#x2F;) 
-*import StateDemo from &quot;..&#x2F;..&#x2F;components&#x2F;demo&#x2F;vue&#x2F;StateDemo.vue&quot;;
+*I enjoyed using React. I really liked it. But then I tried Vue and nuxt. I almost cried, for real. Developing with Vue is so much easier. **React is legacy code.** Here is why.
 Read more...*
 - [Why you should use UnoCSS instead of Tailwind](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;unocss-tailwind&#x2F;) 
 *In this post, I will explain why you should use [UnoCSS](https:&#x2F;&#x2F;unocss.dev&#x2F;) instead of [Tailwind](https:&#x2F;&#x2F;tailwindcss.com&#x2F;).
