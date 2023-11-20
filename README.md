@@ -15,6 +15,9 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [JavaScript is amazing trash. Rust too.](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;javascript-trash-rust&#x2F;) 
+*JavaScript is amazing trash. Rust too. Let me explain.
+Read more...*
 - [Performance is Climate Protection](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;performance-climate-protection&#x2F;) 
 *Website **performance is climate protection**. Every bit of data that is transferred over the internet consumes energy. What can you do to reduce your website&#39;s carbon footprint and what did I do to reduce mine?
 Read more...*
@@ -26,9 +29,6 @@ Read more...*
 Read more...*
 - [Why you should use UnoCSS instead of Tailwind](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;unocss-tailwind&#x2F;) 
 *In this post, I will explain why you should use [UnoCSS](https:&#x2F;&#x2F;unocss.dev&#x2F;) instead of [Tailwind](https:&#x2F;&#x2F;tailwindcss.com&#x2F;).
-Read more...*
-- [Hello World](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;hello-world&#x2F;) 
-*Hello World! This post is created for debugging purposes.
 Read more...*
 <!--END_SECTION:feed-->
 
