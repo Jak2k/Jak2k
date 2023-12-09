@@ -15,6 +15,9 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [Keep it simple](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;keep-it-simple&#x2F;) 
+*To make your visitors happy, **keep your website simple**. Doing so will make your website faster, easier to use and easier to maintain. In this article, I will show my frustrations with the current state of the web and how you can **make your website simpler**.
+Read more...*
 - [JavaScript is amazing trash. Rust too.](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;javascript-trash-rust&#x2F;) 
 *JavaScript is amazing trash. Rust too. Let me explain.
 Read more...*
@@ -26,9 +29,6 @@ Read more...*
 Read more...*
 - [I switched from React to Vue](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;switch-react-vue&#x2F;) 
 *I enjoyed using React. I really liked it. But then I tried Vue and nuxt. I almost cried, for real. Developing with Vue is so much easier. **React is legacy code.** Here is why.
-Read more...*
-- [Why you should use UnoCSS instead of Tailwind](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;unocss-tailwind&#x2F;) 
-*In this post, I will explain why you should use [UnoCSS](https:&#x2F;&#x2F;unocss.dev&#x2F;) instead of [Tailwind](https:&#x2F;&#x2F;tailwindcss.com&#x2F;).
 Read more...*
 <!--END_SECTION:feed-->
 
