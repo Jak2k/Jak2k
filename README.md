@@ -15,20 +15,20 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [How to write a webapp in Rust](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;rust-webapp&#x2F;) 
+*You could write a webapp in Rust, but why should you do that? And how? This post tries to answer most of your questions. If I missed something, please let me know in the comments.
+Read more...*
+- [A Headless CMS is Bullshit for your developer blog](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;headless-cms-bullshit&#x2F;) 
+*Using a **headless CMS** for your developer blog is **bullshit**. Let me explain why.
+Read more...*
 - [Keep it simple](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;keep-it-simple&#x2F;) 
 *To make your visitors happy, **keep your website simple**. Doing so will make your website faster, easier to use and easier to maintain. In this article, I will show my frustrations with the current state of the web and how you can **make your website simpler**.
 Read more...*
 - [JavaScript is amazing trash. Rust too.](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;javascript-trash-rust&#x2F;) 
 *JavaScript is amazing trash. Rust too. Let me explain.
 Read more...*
-- [Performance is Climate Protection](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;performance-climate-protection&#x2F;) 
-*Website **performance is climate protection**. Every bit of data that is transferred over the internet consumes energy. What can you do to reduce your website&#39;s carbon footprint and what did I do to reduce mine?
-Read more...*
 - [Nuxt vs. Astro - Interactive decision helper](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;nuxt-astro&#x2F;) 
 ***Astro** and **nuxt** are both great tools for building websites. But which one should you use? This is an **interactive post** to help you decide. I will explain the differences between the two and then ask you a few questions to help you decide which one is right for you. **At the end**, I will give you a **recommendation based on your answers**.
-Read more...*
-- [I switched from React to Vue](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;switch-react-vue&#x2F;) 
-*I enjoyed using React. I really liked it. But then I tried Vue and nuxt. I almost cried, for real. Developing with Vue is so much easier. **React is legacy code.** Here is why.
 Read more...*
 <!--END_SECTION:feed-->
 
