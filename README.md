@@ -15,6 +15,9 @@
 ## [My blog](https://jak2k.schwanenberg.name)
 
 <!--START_SECTION:feed-->
+- [Don&#39;t use Google Analytics](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;google-analytics&#x2F;) 
+*It&#39;s a bad idea to use Google Analytics on your website and it is even illegal. In this post I&#39;ll explain why and what you can use instead.
+Read more...*
 - [How to write a webapp in Rust](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;rust-webapp&#x2F;) 
 *You could write a webapp in Rust, but why should you do that? And how? This post tries to answer most of your questions. If I missed something, please let me know in the comments.
 Read more...*
@@ -26,9 +29,6 @@ Read more...*
 Read more...*
 - [JavaScript is amazing trash. Rust too.](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;javascript-trash-rust&#x2F;) 
 *JavaScript is amazing trash. Rust too. Let me explain.
-Read more...*
-- [Nuxt vs. Astro - Interactive decision helper](https:&#x2F;&#x2F;jak2k.schwanenberg.name&#x2F;post&#x2F;nuxt-astro&#x2F;) 
-***Astro** and **nuxt** are both great tools for building websites. But which one should you use? This is an **interactive post** to help you decide. I will explain the differences between the two and then ask you a few questions to help you decide which one is right for you. **At the end**, I will give you a **recommendation based on your answers**.
 Read more...*
 <!--END_SECTION:feed-->
 
