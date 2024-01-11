@@ -2,10 +2,10 @@
 
 ## Hi there 👋
 
-- 🔭 I’m working on an unpublished projeft. It willget published in some time, but for now look into my pinned repos.
-- 🔧 I'm using **typescript, vue, nuxt, vitesse**, react, next and **astro**. [More here](https://jak2k.schwanenberg.name)
+- 🔭 I’m working on [nexaraquest (a terminal game)](https://github.com/Jak2k/nexaraquest).
+- 🔧 I'm using **typescript, vue, nuxt, vitesse**, react, nextjs and **astro**. [More here](https://jak2k.schwanenberg.name)
 - 🌱 I'm learning 🦀Rust.
-- 👯 I’m **looking to collaborate on your or mine open source project** (just open an issue [here](https://github.com/jak2k/jak2k/issues)).
+- 👯 I’m **looking to collaborate on your open source project** (just open an issue [here](https://github.com/jak2k/jak2k/issues)).
 - 🤔 I’m looking for help with [tuxnest](https://github.com/jak2k/tuxnest).
 - 💬 Ask me about *anything*!
 - 📫 How to reach me: Just [open an issue](https://github.com/Jak2k/Jak2k/issues/new?assignees=&labels=contact&template=contact-me.md&title=Contact+Request) for contacting me (or send a Contact Request on Discord, where I'm called @Jak2k).
