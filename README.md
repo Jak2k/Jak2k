@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-- 🔭 I’m working on [nexaraquest (a terminal game)](https://github.com/Jak2k/nexaraquest).
-- 🔧 I'm using **typescript, vue, nuxt, vitesse**, react, nextjs and **astro**. [More here](https://jak2k.schwanenberg.name)
-- 🌱 I'm learning 🦀Rust.
+- 🔭 I’m working on my website and a search engine.
+- 🔧 I'm using **rust, typescript, vue,** nuxt, astro, vitesse. [More here](https://jak2k.schwanenberg.name)
+- 🌱 I'm learning Elixir.
 - 👯 I’m **looking to collaborate on your open source project** (just open an issue [here](https://github.com/jak2k/jak2k/issues)).
 - 🤔 I’m looking for help with [tuxnest](https://github.com/jak2k/tuxnest).
 - 💬 Ask me about *anything*!
