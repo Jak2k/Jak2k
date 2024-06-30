@@ -10,6 +10,7 @@ assignees: ''
 **Subject:** *type here*
 **Prefered Messenger/ Chat App**
 *Check the prefered (More are better)*
-- [ ] Mail
+- [ ] Mail / Delta Chat
 - [ ] Matrix / Element
-- [ ] Discord
+- [ ] Signal
+- [ ] XMPP
