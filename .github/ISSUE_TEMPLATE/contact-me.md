@@ -8,9 +8,10 @@ assignees: ''
 ---
 
 **Subject:** *type here*
-**Prefered Messenger/ Chat App**
-*Check the prefered (More are better)*
-- [ ] Mail / Delta Chat
-- [ ] Matrix / Element
-- [ ] Signal
-- [ ] XMPP
+
+**Messenger/ Chat App**
+*Check everything you would communicate with me trough and write down your username behind it.
+- [ ] **Mail / Delta Chat**:
+- [ ] **Matrix / Element**:
+- [ ] **Signal**:
+- [ ] **XMPP**:
